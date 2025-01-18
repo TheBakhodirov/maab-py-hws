@@ -1,0 +1,4 @@
+I love programming with Python.
+Python is versatile and powerful.
+I enjoy learning Python.
+Python can be used for web development.
